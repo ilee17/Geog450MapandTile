@@ -3,7 +3,7 @@
 https://ilee17.github.io/Geog458MapandTile/index.html
 
 # Basemap
-This tile set is made from a template from MapBox. I wanted to focus on the Renton area.
+This tile set is made from a template from MapBox. I wanted to focus on the Seattle and Renton area.
 ![basemap](/imgs/Basemap.png)
 
 # Thematic
